@@ -13,6 +13,12 @@ app.get('/', (req, res) => {
 app.get('/courses', (req, res) => {
     res.send(courses)
 })
+app.get('/coures/:id', (req, res) => {
+    const id = req.params.id;
+    const couresItem = couresDetails.find(course => course._id == id);
+    res.send(couresItem)
+
+})
 
 app.listen(port, () => {
     console.log(`example app listening on prot${port}`);
