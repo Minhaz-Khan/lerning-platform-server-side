@@ -7,32 +7,32 @@
         "about": "Data Engineering is the foundation for the new world of Big Data. Enroll now to build production-ready data infrastructure, an essential skill for advancing your data career.",
         "level": "Intermediate",
         "cours_duration": "4 Months",
-        "details": "",
-        "details_title": "Learn C++ by Coding Five Projects",
+        "details": "Learn to design data models, build data warehouses and data lakes, automate data pipelines, and work with massive datasets. At the end of the program, you’ll combine your new skills by completing a capstone project.",
+        "details_title": "Data Engineering",
         "rating": "4.5"
     },
     {
         "_id": "02",
         "picture": "https://99designs-blog.imgix.net/blog/wp-content/uploads/2021/12/Digital-marketing-trends-2022.jpg?auto=format&q=60&w=1860&h=1860&fit=crop&crop=faces",
         "cours_name": "Digital Marketing",
-        "thumbnail_details": "",
+        "thumbnail_details": "https://www.udacity.com/www-proxy/contentful/assets/2y9b3o528xhq/6faK1WreQeU23oOD4bsy3D/7f0a181dba5e686e1ce0c7400bb41bfc/Syllabus.jpg?fm=webp&q=100",
         "about": "Meet the growing demand for skilled digital marketers by learning the latest technologies for building impactful marketing strategies.",
         "level": "Beginner",
         "cours_duration": "3 Months",
-        "details": "",
-        "details_title": "Learn C++ by Coding Five Projects",
+        "details": "You’ll master the skills necessary to level up your tech career. Learn digital marketing concepts including value propositions, marketing objectives, KPIs, targeted personas, customer journeys, marketing channels, content strategy, and more.",
+        "details_title": "Digital Marketing",
         "rating": "4.7"
     },
     {
         "_id": "03",
         "picture": "https://www.opencodez.com/wp-content/uploads/2019/10/Full-Stack-Developer.jpeg",
         "cours_name": "Full Stack Web Developer",
-        "thumbnail_details": "",
+        "thumbnail_details": "https://www.udacity.com/www-proxy/contentful/assets/2y9b3o528xhq/273mc9O02LTqyMEt024VYZ/3a62e00da4bd2837d74f5cd4776a8f2c/syllabus.jpg?fm=webp&q=100",
         "about": "Learn to design and develop powerful modern web applications that form the foundation for the apps, websites, and systems that people and businesses use every day.",
         "level": "Intermediate",
         "cours_duration": "4 Months",
-        "details": "",
-        "details_title": "Learn C++ by Coding Five Projects",
+        "details": "The goal of the Full Stack Web Developer Nanodegree program is to equip learners with the unique skills they need to build database-backed APIs and web applications. A graduate of this program will be able to design and build databases for software applications, create and deploy database-backed web APIs, and secure and manage user authentication and access control for an application backend. Students will also learn how to deploy a Flask-based web application to the cloud using Docker and Kubernetes.",
+        "details_title": "Full Stack Web Developer",
         "rating": "4.5"
     },
     {
@@ -56,7 +56,7 @@
         "level": "Intermediate",
         "cours_duration": "6 Months",
         "details": "Learn the fundamentals of the blockchain platform. Create your own private blockchain, and secure a digital asset using blockchain identity. Explore the Ethereum platform, and use Solidity and smart contracts to develop your own decentralized app.",
-        "details_title": "Learn C++ by Coding Five Projects",
+        "details_title": "Blockchain Developer",
         "rating": "4.5"
     },
     {
