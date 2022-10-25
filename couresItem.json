@@ -1,0 +1,73 @@
+[
+    {
+        "_id": "01",
+        "picture": "https://www.upgrad.com/blog/wp-content/uploads/2019/04/BD-in-article-01-630x630.png",
+        "cours_name": "Data Engineer",
+        "thumbnail_details": "https://www.udacity.com/www-proxy/contentful/assets/2y9b3o528xhq/6pTWXDXJ3MP8jfn755MT97/cfb772d989e35116d7971b5370d80de9/DSGN-1158_Syllabus_500x324.jpg?fm=webp&q=100",
+        "about": "Data Engineering is the foundation for the new world of Big Data. Enroll now to build production-ready data infrastructure, an essential skill for advancing your data career.",
+        "level": "Intermediate",
+        "cours_duration": "4 Months",
+        "details": "",
+        "details_title": "Learn C++ by Coding Five Projects",
+        "rating": "4.5"
+    },
+    {
+        "_id": "02",
+        "picture": "https://99designs-blog.imgix.net/blog/wp-content/uploads/2021/12/Digital-marketing-trends-2022.jpg?auto=format&q=60&w=1860&h=1860&fit=crop&crop=faces",
+        "cours_name": "Digital Marketing",
+        "thumbnail_details": "",
+        "about": "Meet the growing demand for skilled digital marketers by learning the latest technologies for building impactful marketing strategies.",
+        "level": "Beginner",
+        "cours_duration": "3 Months",
+        "details": "",
+        "details_title": "Learn C++ by Coding Five Projects",
+        "rating": "4.7"
+    },
+    {
+        "_id": "03",
+        "picture": "https://www.opencodez.com/wp-content/uploads/2019/10/Full-Stack-Developer.jpeg",
+        "cours_name": "Full Stack Web Developer",
+        "thumbnail_details": "",
+        "about": "Learn to design and develop powerful modern web applications that form the foundation for the apps, websites, and systems that people and businesses use every day.",
+        "level": "Intermediate",
+        "cours_duration": "4 Months",
+        "details": "",
+        "details_title": "Learn C++ by Coding Five Projects",
+        "rating": "4.5"
+    },
+    {
+        "_id": "04",
+        "picture": "https://www.chlsoftech.com/Content/img/service/uiux-about.jpg",
+        "cours_name": "Become a UX Designer",
+        "thumbnail_details": "https://www.udacity.com/www-proxy/contentful/assets/2y9b3o528xhq/2a8CSJqmzoo7sGqPAvLZ0r/155c34db43a15bc2efbb7b4b1e588f1f/syllabus__1_.jpg?fm=webp&q=100",
+        "about": "Design impactful user experiences for products in today’s digital world. Build a portfolio that showcases your ability to transform user research to high-fidelity interactive designs.",
+        "level": "Beginner",
+        "cours_duration": "3 Months",
+        "details": "You’ll learn how to create a digital user experience that is ready to be handed off for development. You’ll start by building familiarity and fluency with design research fundamentals to identify the user and the solutions they need. You’ll then synthesize your research, and use design sprints to take an idea from concept to low-fidelity prototype. Finally, you’ll learn how to turn your low-fidelity prototype into a high-fidelity design, and improve its performance based on data. Along the way, you’ll complete projects that can be incorporated into a UX portfolio at the end of the program in order to showcase your capabilities to future employers.",
+        "details_title": "UX Designer",
+        "rating": "4.2"
+    },
+    {
+        "_id": "05",
+        "picture": "https://www.newsinfowars.com/wp-content/uploads/2022/09/How-Custom-Blockchain-Solutions-Can-Reinvent-Your-Business.png",
+        "thumbnail_details": "https://www.udacity.com/www-proxy/contentful/assets/2y9b3o528xhq/6TjS5wU9CmSPQuuMclH3ti/0a009233154bd123fbb246d0a72649d3/program_syllabus_term1.png?fm=webp&q=100",
+        "cours_name": "Become a Blockchain Developer",
+        "about": "Demand for blockchain developers is skyrocketing. In this program, you'll work with the Bitcoin and Ethereum protocols, build projects for real-world application, and gain the essential skills for a career in this dynamic space.",
+        "level": "Intermediate",
+        "cours_duration": "6 Months",
+        "details": "Learn the fundamentals of the blockchain platform. Create your own private blockchain, and secure a digital asset using blockchain identity. Explore the Ethereum platform, and use Solidity and smart contracts to develop your own decentralized app.",
+        "details_title": "Learn C++ by Coding Five Projects",
+        "rating": "4.5"
+    },
+    {
+        "_id": "06",
+        "picture": "https://www.educative.io/v2api/editorpage/5393602882568192/image/6038586442907648",
+        "cours_name": "C++",
+        "thumbnail_details": "https://www.udacity.com/www-proxy/contentful/assets/2y9b3o528xhq/7fimeHrgPUjpYFND3ZV68G/e496d2960118cb4565340ef7e2e61813/Syllabus__1_.jpg?fm=webp&q=100",
+        "about": "Learn C++, a high-performance programming language used in the world's most exciting engineering jobs -- from self-driving cars and robotics, to web browsers, media platforms, servers, and even video games.",
+        "cours_duration": "4 Months",
+        "details": "Get hands-on experience by coding five real-world projects. Learn to build a route planner using OpenStreetMap data, write a process monitor for your computer, and implement your own smart pointers. Finally, showcase all your newfound skills by building a multithreaded traffic simulator and coding your own C++ application.",
+        "details_title": "Learn C++ by Coding Five Projects",
+        "rating": "4.5"
+    }
+]
