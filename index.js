@@ -13,7 +13,7 @@ app.get('/', (req, res) => {
 app.get('/courses', (req, res) => {
     res.send(courses)
 })
-app.get('/coures/:id', (req, res) => {
+app.get('/course/:id', (req, res) => {
     const id = req.params.id;
     const couresItem = couresDetails.find(course => course._id == id);
     res.send(couresItem)
