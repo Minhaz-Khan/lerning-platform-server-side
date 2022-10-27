@@ -20,6 +20,8 @@ app.get('/course/:id', (req, res) => {
 
 })
 
+module.exports = app;
+
 app.listen(port, () => {
     console.log(`example app listening on prot${port}`);
 })
